@@ -1,5 +1,5 @@
 # SelectionSort
-Selection Sort Simulation is a simulation used to show the process of Selection Sort. The numbers will be re-arranged in ascending order. At the end of the program, the sorting process log and the numbers that are sorted in ascending order will be displayed.
+Selection Sort Simulation is a simulation used to show the process of Selection Sort. The numbers will be re-arranged in ascending order.
 
 # Software Required to Run the Project 
 [Ubuntu](https://ubuntu.com/download/desktop)
@@ -26,3 +26,5 @@ OR
 make
 ./myProgram 0.5 
 ```
+# Some Screenshots from the Simulation 
+![SSort 4](https://user-images.githubusercontent.com/95561298/146950388-107cc69f-b979-4f75-9013-32bf59989a1c.PNG)
